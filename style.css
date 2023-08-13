@@ -1,0 +1,24 @@
+#body{
+
+    min-height: 100vh;
+    text-align: center;
+    background-color: rgb(162, 0, 255);
+
+    color:white;
+
+}
+
+button{
+    margin-top:40vh;
+    border-radius: 5%;
+    padding:20px 20px;
+    font-size: large;
+    margin-bottom: 20px;
+    background-color: rgb(232, 44, 229);
+    color: aliceblue;
+}
+
+body{
+    margin :0%;
+}
+
